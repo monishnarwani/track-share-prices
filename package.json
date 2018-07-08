@@ -1,0 +1,26 @@
+{
+  "name": "track-share-prices",
+  "version": "0.0.1",
+  "description": "This small app is used by me to track share prices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/monishnarwani/track-share-prices.git"
+  },
+  "keywords": [
+    "webscrap",
+    "nodejs"
+  ],
+  "author": "Monish Narwani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monishnarwani/track-share-prices/issues"
+  },
+  "homepage": "https://github.com/monishnarwani/track-share-prices#readme",
+  "dependencies": {
+    "puppeteer": "^1.5.0"
+  }
+}
